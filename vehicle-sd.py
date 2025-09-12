@@ -1,3 +1,6 @@
+# Sahara Smith
+# filename: Vehicle-sd
+# This app will accept user input for information about a car (year, make, model, door amount, and roof type) then outputs it to the user.
 class Vehicle:
     def __init__(self, vehicle_type):
         self.vehicle_type = vehicle_type
